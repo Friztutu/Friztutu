@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **js(react), C**
 
-- 📫 How to reach me **erofeevs943@gmail.com**
+- 📫 Сontact me through **erofeevs943@gmail.com**
 
 <h3 align="left">Leetcode:</h3>
 <p align="left">
